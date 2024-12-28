@@ -71,5 +71,7 @@
             "username": "root",
             "password": "robot123"
         }
-    ]
+    ],
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "C:Program Files\\Mozilla Firefox\\firefox.exe"
+
 }
